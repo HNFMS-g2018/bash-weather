@@ -1,0 +1,8 @@
+bash-weather-launch.sh
+
+PS1=">>> "
+
+alias ls='ls --color'
+alias ll='ls -lh'
+alias la='ls -A'
+alias emacs='nano'
